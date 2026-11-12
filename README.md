@@ -1,4 +1,4 @@
-# FMCG Sales Analytics Dashboard
+# FMCG Sales Analytics Dashboard | Microsoft Excel
 
 ## Project Overview
 An interactive FMCG Sales Analytics Dashboard designed to analyze sales performance, product revenue, customer behavior, regional performance, and payment trends.
