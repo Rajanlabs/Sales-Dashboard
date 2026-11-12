@@ -71,8 +71,8 @@ Tracks sales performance across retail clients, distributors, and stores.
 - Profit is calculated as Net Sales minus COGS.
 
 ## 📷 Dashboard Preview
-[Sales Dashboard]([Sales Dashboard.png](https://github.com/Rajanlabs/Sales-Dashboard/blob/main/Sales%20Dashboard.png))
 
+![Sales Dashboard](./Sales%20Dashboard.png)
 
 ## Repository Structure
 
